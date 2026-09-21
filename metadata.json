@@ -1,0 +1,6 @@
+{
+  "name": "Stock Record & Inventory Sheet - Google Sheets Sync",
+  "description": "Excel-like stock purchase, issue, item master, party master, and party-wise report workbook with Supabase PostgreSQL database integration and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
